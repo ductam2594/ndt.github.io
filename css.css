@@ -1,0 +1,12 @@
+h1{
+    color:red ;
+}
+body,html{
+    margin:0px;
+    padding :0px;
+
+}
+body{
+    background:url(./1.jpg) no-repeat center center fixed ;
+    background-size:cover;
+}
